@@ -1,0 +1,16 @@
+.btn{
+    border: none;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: tomato;
+}
+.success{
+    background-color: green;
+
+}
+.danger{
+    background-color: red;
+}
+.warning{
+    background-color: yellow;
+}

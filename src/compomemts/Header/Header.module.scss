@@ -1,0 +1,20 @@
+.header{
+    padding: 30px;
+    background-color: #1a1a1a;
+    nav{
+        a{
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.2rem;
+            margin-right: 1rem;
+            &:hover{
+                color: #ccc;
+             }
+        }
+    }
+}
+.container{
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
